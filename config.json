@@ -58,6 +58,27 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-apis",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Learn to build and document a small REST API using FastAPI.",
+      "path": "assignments/fastapi-rest-apis",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "outsystems-web-apps",
+      "title": "Building Web Applications with OutSystems",
+      "description": "Design and build a simple web app with screens, data, and business logic in OutSystems.",
+      "path": "assignments/outsystems-web-apps",
+      "dueDate": "2026-09-29"
     }
   ]
 }
