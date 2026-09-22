@@ -79,6 +79,27 @@
       "description": "Design and build a simple web app with screens, data, and business logic in OutSystems.",
       "path": "assignments/outsystems-web-apps",
       "dueDate": "2026-09-29"
+    },
+    {
+      "id": "sql-database-fundamentals",
+      "title": "Database Fundamentals with SQL",
+      "description": "Design databases, write SQL queries, and practice data management with relational tables.",
+      "path": "assignments/sql-database-fundamentals",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter SQL",
+          "file": "starter.sql",
+          "type": "sql"
+        }
+      ]
+    },
+    {
+      "id": "authentication-and-authorization",
+      "title": "Authentication and Authorization Basics",
+      "description": "Protect an application by validating users, creating secure sessions or tokens, and enforcing access rules.",
+      "path": "assignments/authentication-and-authorization",
+      "dueDate": "2026-09-29"
     }
   ]
 }
